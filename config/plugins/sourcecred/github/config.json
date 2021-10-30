@@ -1,1 +1,6 @@
-{"repositories": ["sourcecred-test/example-github"]}
+{
+ "repositories":[
+   "makerdao/mips",
+   "makerdao/community"
+ ]
+}
