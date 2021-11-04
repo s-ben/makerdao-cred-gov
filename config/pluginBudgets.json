@@ -5,7 +5,7 @@
       {"startTime": "2018-01-01", "budget": 50}
     ],
     "sourcecred/discourse": [
-      {"startTime": "2018-01-01", "budget": 250}
+      {"startTime": "2018-01-01", "budget": 1000}
     ]
   }
 }
