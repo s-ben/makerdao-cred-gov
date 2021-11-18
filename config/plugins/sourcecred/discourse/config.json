@@ -6,7 +6,7 @@
      "34": 1.75,
      "14": 7
     },
-    "defaultCategoryWeight": 1,
+    "defaultCategoryWeight": 0.25,
     "defaultTagWeight": 1,
     "tagWeights": {
       "sourcecred": 1
