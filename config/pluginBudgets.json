@@ -2,7 +2,7 @@
   "intervalLength": "WEEKLY",
   "plugins": {
     "sourcecred/github": [
-      {"startTime": "2018-01-01", "budget": 50}
+      {"startTime": "2018-01-01", "budget": 12}
     ],
     "sourcecred/discourse": [
       {"startTime": "2018-01-01", "budget": 1000}

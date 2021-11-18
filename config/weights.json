@@ -1,0 +1,1 @@
+[{"type":"sourcecred/weights","version":"0.2.0"},{"edgeWeights":{"E\u0000sourcecred\u0000discourse\u0000authors\u0000topic\u0000":{"backwards":1,"forwards":0},"E\u0000sourcecred\u0000discourse\u0000topicContainsPost\u0000":{"backwards":1,"forwards":1}},"nodeWeights":{}}]
